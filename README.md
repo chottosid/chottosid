@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Swarup Sidhartho Mondol
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics+Researcher;Machine+Learning+Developer;Full+Stack+Developer;Web3+Developer;Theoretical+CS+Aficionado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Developement;BlockChain;Theoretical+CS" alt="Typing SVG" />
 </div>
 
 <p align="left">
