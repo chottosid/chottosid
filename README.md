@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Swarup Sidhartho Mondol
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Developement;BlockChain;Theoretical+CS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Developement;BlockChain;" alt="Typing SVG" />
 </div>
 
 <p align="left">
@@ -12,7 +12,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-I work in bioinformatics research, combining computational methods with biological data analysis. I take interest in Mathematics, Arts and Music.
+I primarily work in Bioinformatics, alongside taking interests in Mathematics and TCS.
 <br>
 <br>
 <br>
