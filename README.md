@@ -1,77 +1,86 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Swarup Sidhartho Mondol
+# 👋 Hi, I'm Swarup Sidhartho Mondol
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Developement;BlockChain;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Development;Blockchain" alt="Typing SVG" />
 </div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chottosid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ## 🧬 Research Interests
 
 <img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-I primarily work in Bioinformatics, alongside taking interests in Mathematics and TCS.
-<br>
-<br>
-<br>
+I'm passionate about exploring the intersection of **Bioinformatics**, **Machine Learning**, and **Theoretical Computer Science**.  
+My work focuses on applying computational and statistical approaches to biological data, building efficient algorithms, and developing intelligent systems that connect science and technology.
+
+---
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
+### 🧠 Languages & Frameworks
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Web Development
+### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Web3 Development
+### ⛓️ Web3 Development
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Brownie](https://img.shields.io/badge/Brownie-2E3B69?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Databases
+### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-### AI/ML
+### 🤖 AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Hobby
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-%23EE4C2C?style=for-the-badge&logo=scrapy&logoColor=white)
+### 🕸️ Scripting & Automation
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chottosid&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chottosid&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
 </div>
+
+---
 
 ## 🎓 Education
 
 <img align="right" height="150" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 **Bangladesh University of Engineering and Technology (BUET)**  
-B.Sc. in Computer Science and Engineering  
-Expected Graduation: 2026
+_B.Sc. in Computer Science and Engineering_  
+Expected Graduation: **2026**
+
+---
 
 ## 🌱 Current Focus
 
-- 🧬 Bioinformatics algorithms
-- 🤖 Deep learning applications in computational biology
-- ⛓️ Web3 and blockchain development
-- 🔬 Theoretical CS and Mathematics
-- 📊 Data analysis and visualization
+- 🧬 Bioinformatics algorithms  
+- 🤖 Deep learning for computational biology  
+- ⛓️ Blockchain and Web3 applications  
+- 🔬 Theoretical CS and applied mathematics  
+- 📊 Data visualization and analytics
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -83,6 +92,8 @@ Expected Graduation: 2026
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
