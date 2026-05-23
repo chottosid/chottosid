@@ -1,108 +1,55 @@
-# 👋 Hi, I'm Swarup Sidhartho Mondol
+# Swarup Sidhartho Mondol
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bioinformatics;Machine+Learning;Full+Stack+Development;Blockchain" alt="Typing SVG" />
-</div>
+Undergraduate, Computer Science & Engineering — Bangladesh University of Engineering and Technology (BUET)
+
+---
+
+### Research Interests
+
+**Theory** — Algorithms, Theoretical Computer Science, Number Theory
+
+**Machine Learning** — Generative Models, Probabilistic Modeling, Multi-agent Systems, Autonomous Reasoning
+
+---
+
+### Publications
+
+**DDS-E-Sim: A Transformer-based Probabilistic Generative Framework for Simulating Error-Prone DNA Sequences for DNA Data Storage**
+*NeurIPS 2025 Workshop (FPI & SPIGM)* — with Prof. A.B.M. Alim Al Islam, BUET
+
+**Impact of Stain Normalization and Background Filtering on Deep Learning & Transformer-based Models for Ovarian Cancer Histopathology Classification**
+*ICCIT 2025*
+
+---
+
+### Selected Honors
+
+- Silver Medalist, International Blockchain Olympiad (2025)
+- Honorable Mention, Asia Pacific Mathematical Olympiad (2019)
+- IMO Training Camp, 2018–2020
+- Academic Team Member, Bangladesh Mathematical Olympiad (2022–present)
+- Global Top 100, Reply AI Agents Challenge (2026)
+
+---
+
+### Education
+
+**B.Sc. in Computer Science and Engineering** — BUET
+CGPA: 3.59 / 4.00 · Expected 2026
+
+---
+
+### Technical Skills
+
+**Languages:** Python, C++, C, Java, Solidity
+**ML & Research:** PyTorch, scikit-learn
+**Web & Frameworks:** Django, React, Spring Boot
+**Databases:** PostgreSQL, MySQL
+
+---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chottosid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:swarupsidhartho@gmail.com">Email</a> ·
+  <a href="https://swarupsidhartho.xyz">Website</a> ·
+  <a href="https://www.linkedin.com/in/swarup-sidhartho-mondol-032b90257/">LinkedIn</a>
 </p>
-
----
-
-## 🧬 Research Interests
-
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-I'm passionate about exploring the intersection of **Bioinformatics**, **Machine Learning**, and **Theoretical Computer Science**.  
-My work focuses on applying computational and statistical approaches to biological data, building efficient algorithms, and developing intelligent systems that connect science and technology.
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages & Frameworks
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### 🌐 Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⛓️ Web3 Development
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
-![Brownie](https://img.shields.io/badge/Brownie-2E3B69?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-
-### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🕸️ Scripting & Automation
-![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chottosid&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
-</div>
-
----
-
-## 🎓 Education
-
-<img align="right" height="150" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-
-**Bangladesh University of Engineering and Technology (BUET)**  
-_B.Sc. in Computer Science and Engineering_  
-Expected Graduation: **2026**
-
----
-
-## 🌱 Current Focus
-
-- 🧬 Bioinformatics algorithms  
-- 🤖 Deep learning for computational biology  
-- ⛓️ Blockchain and Web3 applications  
-- 🔬 Theoretical CS and applied mathematics  
-- 📊 Data visualization and analytics
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swarup-sidhartho-mondol-032b90257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:swarupsidhartho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chottosid&theme=react-dark" width="100%"/>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<img src="https://github.com/chottosid/chottosid/blob/output/snake.gif" width="100%">
