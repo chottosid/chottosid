@@ -1,6 +1,6 @@
 # Swarup Sidhartho Mondol
 
-Undergraduate, Computer Science & Engineering — Bangladesh University of Engineering and Technology (BUET)
+Graduate@Computer Science & Engineering — Bangladesh University of Engineering and Technology (BUET)
 
 ---
 
@@ -8,7 +8,7 @@ Undergraduate, Computer Science & Engineering — Bangladesh University of Engin
 
 **Theory** — Algorithms, Theoretical Computer Science, Number Theory
 
-**Machine Learning** — Generative Models, Probabilistic Modeling, Multi-agent Systems, Autonomous Reasoning
+**Machine Learning** — Data Augmentation, Generative Models, Multi-agent Systems 
 
 ---
 
@@ -28,23 +28,20 @@ Undergraduate, Computer Science & Engineering — Bangladesh University of Engin
 - Honorable Mention, Asia Pacific Mathematical Olympiad (2019)
 - IMO Training Camp, 2018–2020
 - Academic Team Member, Bangladesh Mathematical Olympiad (2022–present)
-- Global Top 100, Reply AI Agents Challenge (2026)
 
 ---
 
 ### Education
 
 **B.Sc. in Computer Science and Engineering** — BUET
-CGPA: 3.59 / 4.00 · Expected 2026
+CGPA: 3.60 / 4.00 · 2026
 
 ---
 
 ### Technical Skills
 
 **Languages:** Python, C++, C, Java, Solidity
-**ML & Research:** PyTorch, scikit-learn
-**Web & Frameworks:** Django, React, Spring Boot
-**Databases:** PostgreSQL, MySQL
+**Web & Frameworks:** Django, React, Spring Boot, NodeJS
 
 ---
 
